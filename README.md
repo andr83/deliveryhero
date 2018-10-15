@@ -159,11 +159,6 @@ curl -XDELETE /v1/restaurants/1
 curl /v1/healthcheck
 ()
 ```
-
-#### Error Response
-If no restaurant by id is found.
-
-**Code**: 404
   
 ## Build REST API service
 ### Docker
